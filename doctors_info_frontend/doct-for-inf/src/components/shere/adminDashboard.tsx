@@ -32,22 +32,22 @@ const menuItems = [
   {
     label: "Doctors",
     icon: Stethoscope,
-    route: "/doctor",
+    route: "/admin/doctor",
   },
   {
     label: "Diagnostic Centers",
     icon: Building2,
-    route: "/diagnostic",
+    route: "/admin/diagnostic",
   },
   {
     label: "Notifications",
     icon: Bell,
-    route: "/notification",
+    route: "/admin/notification",
   },
   {
     label: "Settings",
     icon: Settings,
-    route: "/setting",
+    route: "/admin/setting",
   },
 ];
 
